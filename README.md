@@ -1,5 +1,5 @@
 
 
+![](https://komarev.com/ghpvc/?username=nguyen-huong)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyen-huong&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyen-huong&theme=ayu-mirage)](https://git.io/streak-stats)
